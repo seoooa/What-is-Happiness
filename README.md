@@ -68,6 +68,8 @@
 ML5 라이브러리를 통해 분석한 얼굴 근육의 좌표를 텍스트 파일로 저장하고, 이를 다시 불러와 도형으로 재현하는 코드를 작성하였다. 여러 얼굴의 근육 좌표 이미지를 투명하게 겹쳐 시각화한 결과, 입꼬리의 각도와 눈썹, 눈의 모양이 웃는 얼굴을 나타낸다는 것을 확인하였다.
     
     ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e7fedc50-61b5-4497-a264-d5c73be6e109/41177ff4-4abc-4504-85a5-4755b044c573/image.png)
+  [얼굴 주요 포인트 좌표 저장](https://editor.p5js.org/seoooa/sketches/sKZAOYIXa)
+  [얼굴 주요 포인트 좌표 시각화](https://editor.p5js.org/seoooa/sketches/ef308H1Lb)
     
 
  결론적으로, 얼굴 근육을 통해 **행복을 객관적으로 감지**할 수 있다는 결론을 얻었으며, 이를 흥미로운 방식으로 시각화하는 것에 성공하였다.
