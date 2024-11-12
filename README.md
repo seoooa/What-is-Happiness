@@ -46,6 +46,7 @@
 
 결론적으로, **인간 개발, 환경 질, 개인 자유**가 행복에 중요한 영향을 미친다는 것을 확인했다.
 
+<br/>
 ### 2. Unconventional Charting Type
 
 ![image](https://github.com/user-attachments/assets/4a80224c-e771-45f8-a14c-1cd516e4db22)
@@ -79,6 +80,7 @@ ML5 라이브러리를 통해 분석한 얼굴 근육의 좌표를 텍스트 파
 
  결론적으로, 얼굴 근육을 통해 **행복을 객관적으로 감지**할 수 있다는 결론을 얻었으며, 이를 흥미로운 방식으로 시각화하는 것에 성공하였다.
 
+<br/>
 ### 3. Analog
 
 ![image (3)](https://github.com/user-attachments/assets/f62f62e6-f3b2-45c6-a33c-aab5ed486e65)
