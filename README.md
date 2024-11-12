@@ -15,8 +15,7 @@
 ### 1. Clear Communication
 
 **행복과 가장 밀접한 지표를 찾기 위해 명확한 수치 지표를 활용하여 분석을 진행한다**
-
-![image (5)](https://github.com/user-attachments/assets/d49e7b86-8641-4e6a-a19b-c1ba8ced1e02)
+ <img src="https://github.com/user-attachments/assets/d49e7b86-8641-4e6a-a19b-c1ba8ced1e02" width="400" height="200"/>
 
 > **분석 요약**
 > 
@@ -70,9 +69,7 @@ ML5 라이브러리를 통해 분석한 얼굴 근육의 좌표를 텍스트 파
   ![image (2)](https://github.com/user-attachments/assets/bde7ae74-94cb-48fd-845e-079b2130bfd1)
 
   
-  [얼굴 주요 포인트 좌표 저장](https://editor.p5js.org/seoooa/sketches/sKZAOYIXa)
-
-
+  [얼굴 주요 포인트 좌표 저장](https://editor.p5js.org/seoooa/sketches/sKZAOYIXa) <br/>
   [얼굴 주요 포인트 좌표 시각화](https://editor.p5js.org/seoooa/sketches/ef308H1Lb)
     
 
