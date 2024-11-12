@@ -16,7 +16,7 @@
 
 **행복과 가장 밀접한 지표를 찾기 위해 명확한 수치 지표를 활용하여 분석을 진행한다**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e7fedc50-61b5-4497-a264-d5c73be6e109/d95677f2-d7cc-4a60-a96a-7633042822a3/image.png)
+![image (5)](https://github.com/user-attachments/assets/d49e7b86-8641-4e6a-a19b-c1ba8ced1e02)
 
 > **분석 요약**
 > 
@@ -45,7 +45,7 @@
 
 ### 2. Unconventional Charting Type
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e7fedc50-61b5-4497-a264-d5c73be6e109/674ae0c2-ffbf-442e-8350-f8685d5b50da/image.png)
+![image](https://github.com/user-attachments/assets/4a80224c-e771-45f8-a14c-1cd516e4db22)
 
 > **행복을 감지할 수 있을까?**
 > 
@@ -61,14 +61,18 @@
 논문을 참고하여 **기쁨을 나타내는 얼굴 근육의 특징**을 분석하였다. 주요 특징은 **입꼬리의 위쪽으로 올라간 각도**와 **입술이 수평으로 퍼지는 정도**임을 알 수 있었다. P5js의 ml5 라이브러리를 사용해 사진을 입력받고 눈, 코, 입, 얼굴 모양 등을 분석해 입술 근육의 각도를 계산하는 코드를 구현하여, 아랫입술의 각도가 110도에 가까울수록, 윗입술의 각도가 180도에 가까울수록 웃는 표정에 가깝다는 결론을 얻을 수 있었다.
     - 참고 논문 (일부)
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e7fedc50-61b5-4497-a264-d5c73be6e109/d2c5d0bc-47e4-4d15-8edf-63376d58221c/image.png)
+        ![image (1)](https://github.com/user-attachments/assets/f3625117-9a2b-4465-8294-08bf26727f73)
         
 
 - **얼굴 전체 분석**
 ML5 라이브러리를 통해 분석한 얼굴 근육의 좌표를 텍스트 파일로 저장하고, 이를 다시 불러와 도형으로 재현하는 코드를 작성하였다. 여러 얼굴의 근육 좌표 이미지를 투명하게 겹쳐 시각화한 결과, 입꼬리의 각도와 눈썹, 눈의 모양이 웃는 얼굴을 나타낸다는 것을 확인하였다.
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e7fedc50-61b5-4497-a264-d5c73be6e109/41177ff4-4abc-4504-85a5-4755b044c573/image.png)
+  ![image (2)](https://github.com/user-attachments/assets/bde7ae74-94cb-48fd-845e-079b2130bfd1)
+
+  
   [얼굴 주요 포인트 좌표 저장](https://editor.p5js.org/seoooa/sketches/sKZAOYIXa)
+
+
   [얼굴 주요 포인트 좌표 시각화](https://editor.p5js.org/seoooa/sketches/ef308H1Lb)
     
 
@@ -76,7 +80,7 @@ ML5 라이브러리를 통해 분석한 얼굴 근육의 좌표를 텍스트 파
 
 ### 3. Analog
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e7fedc50-61b5-4497-a264-d5c73be6e109/a1d26e90-f797-427f-bffb-d18d3c6e769c/image.png)
+![image (3)](https://github.com/user-attachments/assets/f62f62e6-f3b2-45c6-a33c-aab5ed486e65)
 
  
 
