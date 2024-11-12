@@ -15,7 +15,7 @@
 ### 1. Clear Communication
 
 **행복과 가장 밀접한 지표를 찾기 위해 명확한 수치 지표를 활용하여 분석을 진행한다** <br/>
- <img src="https://github.com/user-attachments/assets/d49e7b86-8641-4e6a-a19b-c1ba8ced1e02" width="800" height="500"/>
+ <img src="https://github.com/user-attachments/assets/d49e7b86-8641-4e6a-a19b-c1ba8ced1e02" width="600" height="400"/>
 
 > **분석 요약**
 > 
