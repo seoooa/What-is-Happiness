@@ -14,8 +14,8 @@
 
 ### 1. Clear Communication
 
-**행복과 가장 밀접한 지표를 찾기 위해 명확한 수치 지표를 활용하여 분석을 진행한다**
- <img src="https://github.com/user-attachments/assets/d49e7b86-8641-4e6a-a19b-c1ba8ced1e02" width="400" height="200"/>
+**행복과 가장 밀접한 지표를 찾기 위해 명확한 수치 지표를 활용하여 분석을 진행한다** <br/>
+ <img src="https://github.com/user-attachments/assets/d49e7b86-8641-4e6a-a19b-c1ba8ced1e02" width="800" height="500"/>
 
 > **분석 요약**
 > 
@@ -88,8 +88,6 @@ ML5 라이브러리를 통해 분석한 얼굴 근육의 좌표를 텍스트 파
 
 > **빛을 활용하여 시각화**
 > 
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e7fedc50-61b5-4497-a264-d5c73be6e109/2c987493-5b5b-45aa-88f1-58e3ebbd7f38/image.png)
 
 우리는 빛의 속성을 이용해 이를 표현하고자 하였따. 각 빛은 다른 색을 나타내며, 빛이 겹쳐지면 새로운 색이 만들어지지만, 결국 모든 빛이 모이면 가장 밝은 색, **흰색**이 된다는 특성이 있다. 이러한 원리를 이용하여 셀로판지를 통해 사람들이 중요하게 생각하는 가치를 빨강, 파랑, 초록의 빛으로 표현하고, 플래시를 겹쳐 다양한 색과, 최종적으로는 가장 밝은 흰색을 만들어냈다.
 
